@@ -1,0 +1,10 @@
+description: Hand Landmarks
+task: Landmarks
+input size: 96*96
+channels: 1
+framework: Keras
+quantization: LSQ
+parameters: 450171
+download: https://github.com/LSCC-LML/sensai-sdk-model-zoo-dev/blob/main/downloads/hl-nx33-8.2.0.h5
+checksum: 5fef3b6fbe5529a51b50e77a6cb0672220a0fa6faf661dc51202ec3eb3887954
+version: 8.2.0
