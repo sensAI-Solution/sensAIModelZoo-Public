@@ -5,6 +5,6 @@ channels: 1
 framework: Keras
 quantization: LSQ
 parameters: 302696
-download: https://github.com/LSCC-LML/sensai-sdk-model-zoo-dev/blob/main/downloads/hd-nx33-8.2.0.h5
-checksum: 5fef3b6fbe5529a51b50e77a6cb0672220a0fa6faf661dc51202ec3eb3887954
+download: https://github.com/sensAI-Solution/sensAIModelZoo-Private/blob/main/models/Hand-Detection/weights/hd-nx33-8.2.0.h5
+checksum: 4e565d9b14b1a3e2eb48de9ff3336be7b5316ccb98c81aeccd8cbce4bfe63a1d
 version: 8.2.0

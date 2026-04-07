@@ -5,6 +5,6 @@ channels: 1
 framework: Keras
 quantization: LSQ
 parameters: 461800
-download: https://github.com/LSCC-LML/sensai-sdk-model-zoo-dev/blob/main/downloads/mobile_net_qr_detection_v1.h5
-checksum: 5fef3b6fbe5529a51b50e77a6cb0672220a0fa6faf661dc51202ec3eb3887954
+download: https://github.com/LSCC-LML/sensai-sdk-model-zoo-dev/blob/main/downloads/qr-code-detection-final.h5
+checksum: 4308e7f9bd858a768f6d06d1d1de6be7cc1d162e44cae5742c387ac0cb82587d
 version: 8.0

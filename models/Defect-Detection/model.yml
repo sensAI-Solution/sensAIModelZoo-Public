@@ -5,6 +5,6 @@ channels: 3
 framework: Keras
 quantization: LSQ
 parameters: 1085364
-download: https://github.com/LSCC-LML/sensai-sdk-model-zoo-dev/blob/main/downloads/dd-cpnx-8.1.2.h5
-checksum: 5fef3b6fbe5529a51b50e77a6cb0672220a0fa6faf661dc51202ec3eb3887954
+download: https://github.com/sensAI-Solution/sensAIModelZoo-Private/blob/main/models/Defect-Detection/weights/dd-cpnx-8.1.2.h5
+checksum: 724eb9a3a58b2becf2882615e90066d382f59ec5b73f0b92244ce42753d7eaad
 version: 8.1.2
