@@ -1,10 +1,10 @@
 description: QR Code Detection Network
 task: Detection
-input size: 256*144
-channels: 1
+input size: 256*192
+channels: 3
 framework: Keras
 quantization: LSQ
-parameters: 461800
+parameters: 468256
 download: https://github.com/sensAI-Solution/sensAIModelZoo-Private/tree/main/models/QRCode-Detection/weights/qr-code-det-v8.2.h5
-checksum: 3600a701870307e12ff88ac702bb701b
-version: 8.0
+checksum: ee6b0a178f0feeff16657fd546699dfa27e561d9dcea412c4905074238990c1e
+version: 8.2

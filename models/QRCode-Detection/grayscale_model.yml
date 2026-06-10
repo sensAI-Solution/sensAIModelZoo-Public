@@ -1,0 +1,10 @@
+description: QR Code Detection Network - Grayscaled
+task: Detection
+input size: 256*192
+channels: 1
+framework: Keras
+quantization: LSQ
+parameters: 468,112
+download: https://github.com/sensAI-Solution/sensAIModelZoo-Private/tree/main/models/QRCode-Detection/weights/qr-detection-model-4_3-grayscaled-v8.2.h5
+checksum: 3dc437d4a6b4f27859ce2cf737dd990a0d18cf2795d6168996f1169324f61189
+version: 8.2
