@@ -5,6 +5,6 @@ channels: 1
 framework: Keras
 quantization: LSQ
 parameters: 461800
-download: https://github.com/LSCC-LML/sensai-sdk-model-zoo-dev/blob/main/downloads/qr-code-detection-final.h5
-checksum: 4308e7f9bd858a768f6d06d1d1de6be7cc1d162e44cae5742c387ac0cb82587d
+download: https://github.com/sensAI-Solution/sensAIModelZoo-Private/tree/main/models/QRCode-Detection/weights/qr-code-det-v8.2.h5
+checksum: 3600a701870307e12ff88ac702bb701b
 version: 8.0
